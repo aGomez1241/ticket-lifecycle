@@ -46,6 +46,6 @@ Next go to the Agent Panel and see the tickets you created appear in your feed.
 <img src="https://i.imgur.com/qy4CSnY.png"/>
 </p>
 <p>
-Resolve and make messages to simulate working the ticket. Do this multiple times. You can also set tickets to specific departments or agents. Do this and use different logins to observe how you can make tickets visbile or invisible to certain users in your ticketing system. This concludes the ticket lifecycle demonstration
+Resolve and make messages to simulate working the ticket. Do this multiple times. You can also set tickets to specific departments or agents. Do this and use different logins to observe how you can make tickets visible or invisible to certain users in your ticketing system. This concludes the ticket lifecycle demonstration
 </p>
 <br />
